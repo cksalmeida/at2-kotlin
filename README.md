@@ -175,18 +175,6 @@ fun AlunoScreen() {
 }
 ```
 
-## 🧪 Testes
-
-O projeto inclui estrutura para testes unitários e instrumentados:
-
-```bash
-# Executar testes unitários
-./gradlew test
-
-# Executar testes instrumentados (requer dispositivo/emulador)
-./gradlew connectedAndroidTest
-```
-
 ## 🎨 Características da Interface
 
 - **Material Design 3**: Interface moderna seguindo as diretrizes do Material Design
@@ -211,17 +199,9 @@ Este projeto é de código aberto e está disponível para fins educacionais.
 
 ## 👨‍💻 Autor
 
-**cksalmeida**
+**Davi Mathais de Almeida**
 
 - GitHub: [@cksalmeida](https://github.com/cksalmeida)
-
-## 📞 Suporte
-
-Se você encontrar algum problema ou tiver sugestões, por favor:
-
-1. Verifique se já existe uma issue relacionada
-2. Crie uma nova issue descrevendo o problema ou sugestão
-3. Inclua detalhes relevantes como versão do Android, dispositivo, etc.
 
 ## 🔄 Changelog
 
@@ -231,7 +211,3 @@ Se você encontrar algum problema ou tiver sugestões, por favor:
 - ✅ Validação de entrada de dados
 - ✅ Interface com Material Design 3
 - ✅ Cálculo automático de média e status
-
----
-
-**Desenvolvido com ❤️ usando Kotlin e Jetpack Compose**
